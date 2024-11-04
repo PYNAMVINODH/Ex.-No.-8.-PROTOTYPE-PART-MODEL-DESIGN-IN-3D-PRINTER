@@ -1,14 +1,14 @@
-# Ex. No. 8 - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
+# Ex. No.   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
-### DATE: 11-12-2023
+### DATE: 4.11.2024
 ## AIM: 
 ### To prototype the given part model design in 3D Printer.
 
 ## REQUIREMENTS:
-### ●	Creality Ender-3/Ender-3v2 Printer machine.
-### ●	CURA 5.5.0 Software.
+### ●	3D Printer machine.
+### ●	CURA 4.0 Software.
 ### ●	Autodesk Fusion 360 Software.
-### ●	System - Windows 11 or higher, 16 GB RAM.
+### ●	System - Windows 7 or higher, 1 GB RAM.
 
 ## PROCEDURE:
 
@@ -46,12 +46,10 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
- ![Screenshot 2023-12-11 161233](https://github.com/PYNAMVINODH/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/145742678/4cde7169-e488-4daa-9235-15e42ba01fdc)
-
-
+![376927887-3fadc85e-6841-418e-bc13-47c9de387251](https://github.com/user-attachments/assets/a300964a-7ed7-4597-a76c-fb04ed695436)
 
 ### Name: PYNAM VINODH
-### Register Number:212223240131
+### Register Number: 212223240131
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
